@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `catalog-series-327-wsje-asco-en-6864636.pdf` |
 | **URL** | https://www.emerson.com/documents/automation/catalog-series-327-wsje-asco-en-6864636.pdf |
-| **Date** | 2026-05-06 06:54:15 UTC |
+| **Date** | 2026-05-06 07:04:44 UTC |
 | **Status** | **FAILED** |
 
 ---
